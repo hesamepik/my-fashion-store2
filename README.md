@@ -1,3 +1,7 @@
+for run
+npm install --legacy-peer-deps
+npm start
+
 #  **Fashion Store using ReactJS, Firebase and TailwindCSS**
 
 This modern **Orchid-fashion-store** project is built using **ReactJS**, google **Firebase** and **TailwindCSS**.
