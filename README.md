@@ -14,3 +14,4 @@ This modern **Orchid-fashion-store** project is built using **ReactJS**, google 
 - User can check **cart summary** in **cart** page (Authentication not required).
 - User can check pre-order details in  **checkout** page (**Authentication required**).
 # fashion-store
+# my-fashion-store2
